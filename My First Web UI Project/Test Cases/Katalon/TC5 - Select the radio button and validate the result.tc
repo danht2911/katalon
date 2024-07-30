@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://demoqa.com/radio-button</description>
+   <name>TC5 - Select the radio button and validate the result</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>401a8d42-d863-4327-be9c-5b0ab85a8f89</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://demoqa.com/browser-windows</description>
+   <name>TC7 - Verify each button after clicking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>709c1f83-0f3e-4616-896d-4ce3ac86cba1</testCaseGuid>
+</TestCaseEntity>

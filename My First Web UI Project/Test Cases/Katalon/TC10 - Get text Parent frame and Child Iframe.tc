@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - Get text Parent frame and Child Iframe</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2b47c57-69cb-4b11-990c-f91bb67fa3a2</testCaseGuid>
+</TestCaseEntity>

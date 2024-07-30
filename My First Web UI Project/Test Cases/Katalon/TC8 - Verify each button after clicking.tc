@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://demoqa.com/alerts</description>
+   <name>TC8 - Verify each button after clicking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f62d1015-9282-476c-b974-df14e8316881</testCaseGuid>
+</TestCaseEntity>

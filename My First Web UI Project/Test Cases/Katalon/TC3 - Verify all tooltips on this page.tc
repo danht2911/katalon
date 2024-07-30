@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://demoqa.com/tool-tips</description>
+   <name>TC3 - Verify all tooltips on this page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5bd6a8f-799a-495d-b594-08a5ce5afa22</testCaseGuid>
+</TestCaseEntity>

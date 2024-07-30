@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "BF189EBC55900FBECAB0D1F7965E442E",
+  "keywordClasses": [
+    {
+      "name": "pdf.test",
+      "keywordMethods": [
+        {
+          "name": "refreshBrowser",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "testrefreshBrowser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

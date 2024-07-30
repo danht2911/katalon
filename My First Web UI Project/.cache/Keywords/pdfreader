@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "20E9DADF49CE098B0FD6C1D6F9DE1486",
+  "keywordClasses": [
+    {
+      "name": "pdfReader",
+      "keywordMethods": [
+        {
+          "name": "readPDFlocal",
+          "parameters": [
+            {
+              "name": "filePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

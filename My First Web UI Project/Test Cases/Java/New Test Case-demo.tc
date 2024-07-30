@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case-demo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eda75c82-ac05-437f-ab4b-4e90aa3c46d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>043f3f31-313f-44d8-867d-5569e1058fa7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'danh'</defaultValue>
+      <description></description>
+      <id>043f3f31-313f-44d8-867d-5569e1058fa7</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
