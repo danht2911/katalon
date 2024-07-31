@@ -14,6 +14,7 @@ public class test {
 		webDriver.navigate().refresh()
 		KeywordUtil.markPassed("Refresh successfully")
 	}
+	
 	@Keyword
 	def testrefreshBrowser() {
 		KeywordUtil.logInfo("Refreshing")

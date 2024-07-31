@@ -86,39 +86,39 @@ class BrowserCK {
 		element.click();
 	}
 
-//	2. Check Element Visibility and Enabled State
-//	if (element.isDisplayed() && element.isEnabled()) {
-//		element.click();
-//	} else {
-//		System.out.println("Element is not clickable.");
-//	}
-//
-//	3. Check for Overlapping Elements
-//	JavascriptExecutor js = (JavascriptExecutor) driver;
-//	boolean isVisible = (Boolean) js.executeScript("return arguments[0].offsetParent !== null;", element);
-//	if (isVisible) {
-//		element.click();
-//	} else {
-//		System.out.println("Element is covered by another element.");
-//	}
-//
-//	4. Using JavaScript Click
-//	JavascriptExecutor js = (JavascriptExecutor) driver;
-//	js.executeScript("arguments[0].click();", element);
-//
-//	5. Handle Exceptions
-//	try {
-//		element.click();
-//	} catch (ElementClickInterceptedException e) {
-//		System.out.println("Element not clickable due to overlapping element.");
-//	}
-//
-//	6. Verify Click Action Success
-//	// Example: Check if a new element appears after the click
-//	WebElement newElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("newElementId")));
-//	if (newElement != null) {
-//		System.out.println("Click action was successful.");
-//	} else {
-//		System.out.println("Click action was not successful.");
-//	}
+	//	2. Check Element Visibility and Enabled State
+	//	if (element.isDisplayed() && element.isEnabled()) {
+	//		element.click();
+	//	} else {
+	//		System.out.println("Element is not clickable.");
+	//	}
+	//
+	//	3. Check for Overlapping Elements
+	//	JavascriptExecutor js = (JavascriptExecutor) driver;
+	//	boolean isVisible = (Boolean) js.executeScript("return arguments[0].offsetParent !== null;", element);
+	//	if (isVisible) {
+	//		element.click();
+	//	} else {
+	//		System.out.println("Element is covered by another element.");
+	//	}
+	//
+	//	4. Using JavaScript Click
+	//	JavascriptExecutor js = (JavascriptExecutor) driver;
+	//	js.executeScript("arguments[0].click();", element);
+	//
+	//	5. Handle Exceptions
+	//	try {
+	//		element.click();
+	//	} catch (ElementClickInterceptedException e) {
+	//		System.out.println("Element not clickable due to overlapping element.");
+	//	}
+	//
+	//	6. Verify Click Action Success
+	//	// Example: Check if a new element appears after the click
+	//	WebElement newElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("newElementId")));
+	//	if (newElement != null) {
+	//		System.out.println("Click action was successful.");
+	//	} else {
+	//		System.out.println("Click action was not successful.");
+	//	}
 }
