@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>opensource-demo.orangehrmlive.com</name>
+   <name>Test HashMap _ Call Testcase</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>1e49c79c-45d2-47bb-83e6-123edf376fb0</testCaseGuid>
+   <testCaseGuid>cfe6e570-fcde-43c4-a88d-e3a26809fd1b</testCaseGuid>
 </TestCaseEntity>
