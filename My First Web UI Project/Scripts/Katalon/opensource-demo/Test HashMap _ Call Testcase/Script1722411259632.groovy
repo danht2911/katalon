@@ -21,7 +21,6 @@ import org.openqa.selenium.Keys as Keys
 Map<String, String> params = new HashMap()
 
 params.put('username', 'Admin')
-
 params.put('password', 'admin123')
 
 // Gọi test case 'Katalon/aa' với các tham số
@@ -32,6 +31,5 @@ WebUI.click(findTestObject('database/Page_OrangeHRM/Adminbutton'))
 
 WebUI.verifyElementPresent(findTestObject('database/Page_OrangeHRM/Admin_RecordFound'), 10)
 
-// Đóng trình duyệt
-WebUI.closeBrowser()
+
 
